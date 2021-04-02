@@ -1,4 +1,4 @@
-# ¿De qué se trata? 😎🎬
+# ¿De qué se trata? 😎🏨🌴
 HotelTresVagos es una API de gestión de hotelería que incluye ABM de huéspedes y reservas. También se incorporó la posibilidad de consultar reportes
 
 # Funcionalidad 🔍
