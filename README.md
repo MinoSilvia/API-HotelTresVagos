@@ -16,9 +16,6 @@ Java y SpringBoot
 # Base de datos 📂
 MySQL
 
-# Deploy 🚀
-Heroku
-
 # Requests  📡 
 Se utilizó Postman para probar los diferentes web methods 
 
